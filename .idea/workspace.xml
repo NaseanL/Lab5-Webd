@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e7e0163-cc42-462a-8be9-66086e8281fb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2ZKDBDz9miNqSRVlA4kHPRN4U4O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e7e0163-cc42-462a-8be9-66086e8281fb" name="Default Changelist" comment="" />
+      <created>1702161739851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702161739851</updated>
+      <workItem from="1702161746435" duration="1660000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="501" y="236" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1702162797416">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="501" y="236" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1702162797416" />
+    <state x="620" y="322" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1702162988035">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="620" y="322" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.864@0.0.1536.864" timestamp="1702162988035" />
+    <state x="548" y="188" key="FileChooserDialogImpl" timestamp="1702162100875">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="548" y="188" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1702162100875" />
+    <state x="277" y="76" key="SettingsEditor" timestamp="1702163233573">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="76" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1702163233573" />
+    <state x="470" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1702161795292">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="470" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1702161795292" />
+    <state x="431" y="185" key="search.everywhere.popup" timestamp="1702162261663">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="185" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1702162261663" />
+  </component>
+</project>
